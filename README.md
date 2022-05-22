@@ -1,6 +1,6 @@
 # Bash Scripting and Bash Automation Practice
 
-## Execute scritps
+## Execute Scripts
 
 - use bash <filename>.sh
 - or use ./<filename>.sh
